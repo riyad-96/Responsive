@@ -1,4 +1,4 @@
-@media screen and (max-width: 460px){
+@media screen and (max-width: 1000px){
   .header_content{
     height: 7vh;
     border-bottom: 1px solid #ddd;
@@ -86,7 +86,7 @@
   }
 
   .container .home .child:first-child{
-    border-right: 3px solid silver;
+    border-right: none;
   }
   .container .home{
     box-shadow: 0 1px 5px #00000079;
